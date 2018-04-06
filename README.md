@@ -14,13 +14,15 @@ A bot.... for reminding!
 * Install [Python3](https://www.python.org/downloads/)
 * Install pipenv (`pip install pipenv`)
 * Clone the Repo
-* Add token to .env.sample file and rename to `.env`
+* Make copy of `.env.example` named `.env`
+* Add token token to `.env` file as value for `DISCORD_TOKEN`
 * Activate virtual env (`pipenv shell`)
 * Install dependencies (`pipenv install`)
 
 ## Usage
 
-* Run Driver (`python src/index.py`)
+* `cd src`
+* Run Driver (`python index.py`)
 
 ## Support
 
