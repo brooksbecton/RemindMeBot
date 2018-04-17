@@ -9,13 +9,15 @@ A use can list their reminders
 
 ### `-l`
 
-Lists a preview version of your reminders inclued
+Lists a preview version of your active reminders
 
 * ID
 * Reminder Preview - A snippet from the message attached to a reminder
 * dateToBeReminded
 
-### `-la`
+### `-a`
+
+Lists adds all information to the list of all reminders.
 
 * ...Everying provided by the `-l` flag
 * dateCreated
