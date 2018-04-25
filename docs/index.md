@@ -7,10 +7,10 @@ Remind Me bot can set reminders for users of a Discord chat through explicit com
 ## User Stories
 
 * Reminders
-  * [Create](stories/create_a_reminder.md)
-  * [List](stories/list_reminders.md)
-  * [Update](stories/update_a_reminder.md)
-  * [Delete](stories/delete_a_reminder.md)
+  * [Create](stories/reminders/create.md)
+  * [List](stories/reminders/list.md)
+  * [Update](stories/reminders/update.md)
+  * [Delete](stories/reminders/delete.md)
 
 ## Technologies
 
